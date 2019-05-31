@@ -1,0 +1,17 @@
+
+div {
+  padding: 14px;
+  display: relative;
+  text-align: center;
+  background-color: white;
+}
+
+.profile {
+  display: block;
+  align-content: center;
+}
+
+button {
+  color: #505355;
+  background-color: #eee;
+}
